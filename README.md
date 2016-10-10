@@ -1,4 +1,4 @@
-# wildfly_swarm_demo
+# Wildfly Swarm demo
 Sample service built as an uberjar with [Wildfly Swarm](http://wildfly-swarm.io/).
 
 Uses JAX-RS with CDI and management-console Wildfly fractions.
